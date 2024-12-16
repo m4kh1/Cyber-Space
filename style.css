@@ -1,0 +1,13 @@
+img{
+    margin: 0 auto;
+    display: block;
+}
+
+audio{
+    width: 100%;
+    height: 300px;
+}
+
+video{
+    width: 960px;
+}
